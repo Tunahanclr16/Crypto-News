@@ -2,8 +2,6 @@
 
 A modern cryptocurrency news portal built with React, featuring real-time crypto prices, categorized news, and a responsive design.
 
-![Crypto News Portal Screenshot](screenshot.png)
-
 ## 🚀 Features
 
 - Real-time cryptocurrency price tracking
